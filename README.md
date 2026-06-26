@@ -1,3 +1,4 @@
+<img width="1850" height="990" alt="1" src="https://github.com/user-attachments/assets/3f303494-758c-484c-9547-a12b29e2b35b" />
 # AnyLaunch 随启
 
 > 便携软件启动器 · 双击 Ctrl 唤出 · 即用即走
